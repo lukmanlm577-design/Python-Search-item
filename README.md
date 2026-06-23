@@ -132,4 +132,4 @@ crud-item-game/
 - **Shield** — Perisai pertahanan
 - **Potion** — Item pemulihan
 
-![Flowchart Struktur Data](images/FlowchartStrukturdata.jpg)
+!(images/FlowchartStrukturdata.jpg)
