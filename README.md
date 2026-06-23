@@ -2,8 +2,8 @@
 # Sistem Manajemen Item Game Berbasis CRUD
 
 TUGAS FINAL PROJECT STRUKTUR DATA 
-NAMA : LUKMAN NUL HAKIM
-NIM : 25416255201033
+**Nama  :** Lukman Nul Hakim  
+**NIM   :** 25416255201033  
 
 Program manajemen data item dalam sebuah game berbasis konsol yang ditulis menggunakan bahasa pemrograman Python. Program ini mengimplementasikan operasi CRUD (Create, Read, Update, Delete) dengan memanfaatkan algoritma Binary Search untuk pencarian data secara efisien, serta menyimpan data secara persisten ke dalam file CSV.
 
