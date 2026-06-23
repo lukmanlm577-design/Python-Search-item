@@ -1,0 +1,24 @@
+id,name,type,price
+1,Pedang Kayu,Pedang,150
+2,Busur Sederhana,Busur Panah,200
+3,Armor Kain,Armor,300
+4,Shield Kayu,Shield,100
+5,Potion Kecil,Potion,50
+6,Pedang Besi,Pedang,500
+7,Busur Panjang,Busur Panah,600
+8,Armor Kulit,Armor,800
+9,Shield Besi,Shield,400
+10,Potion Sedang,Potion,120
+11,Pedang Baja,Pedang,750
+12,Busur Silang,Busur Panah,900
+13,Armor Rantai,Armor,1100
+14,Shield Baja,Shield,600
+15,Potion Besar,Potion,250
+16,Pedang Cahaya,Pedang,1200
+17,Busur Elit,Busur Panah,1500
+18,Armor Pelat,Armor,1800
+19,Shield Kuat,Shield,800
+20,Potion Ultra,Potion,400
+21,Excalibur,pedang,10000
+22,Magma Sword,pedang,500
+23,Armor naga,Armor,5555
