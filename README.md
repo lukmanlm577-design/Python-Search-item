@@ -1,7 +1,7 @@
 # Python-Search-item
 # Sistem Manajemen Item Game Berbasis CRUD
 
-Final Project Struktur Data  
+TUGAS FINAL PROJECT STRUKTUR DATA
 **Nama  :** Lukman Nul Hakim  
 **NIM   :** 25416255201033  
 
